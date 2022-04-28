@@ -1,4 +1,3 @@
-import { verifyForgotPasswordMail } from './../../controllers/usersControllers'
 import { userSchema } from './userSchema'
 import { RequestHandler } from "express"
 import validator from "../utils/validator"
